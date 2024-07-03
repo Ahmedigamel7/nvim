@@ -49,6 +49,7 @@ require("lazy").setup({
 		tag = "0.1.6",
 		dependencies = { "nvim-lua/plenary.nvim" },
 	},
+  "preservim/nerdcommenter"
 	-- {
 	--   "vinnymeller/swagger-preview.nvim",
 	--   run = "npm install -g swagger-ui-watcher",

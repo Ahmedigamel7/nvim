@@ -9,4 +9,3 @@ require("core.plugin_config.nvim-web")
 require("core.plugin_config.neoformat")
 require("core.plugin_config.lsp_zero")
 require("core.plugin_config.completions")
-

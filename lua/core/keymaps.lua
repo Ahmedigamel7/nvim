@@ -11,6 +11,7 @@ vim.keymap.set("n", "<leader>rg", ":Rg", { noremap = true })
 vim.keymap.set("n", "<leader>p", "o<esc>p", { noremap = true })
 vim.keymap.set("i", "<C-z>", "<esc>")
 
+vim.keymap.set("n", "<C-/", ":split | terminal<CR>")
 
 vim.keymap.set("v", "<leader>p", '"_dP', { noremap = true })
 vim.keymap.set("v", "<leader>y", '"+y', { noremap = true })
